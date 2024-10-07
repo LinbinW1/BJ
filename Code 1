@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boba Menu</title>
+</head>
+<body>
+    <h1>Milk Tea</h1>
+    <table>
+        <tr>
+            <th>Milk Tea</th>
+            <th>
+
+            </th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td>Classic Milk Tea</td>
+            <td>
+
+            </td>
+            <td>$4.50</td>
+        </tr>
+        <tr>
+            <td>Thai Milk Tea</td>
+            <td>
+
+            </td>
+            <td>$5.00</td>
+           
+        </tr>
+        <tr>
+            <td>Taro Milk Tea</td>
+            <td>
+
+            </td>
+            <td>$5.50</td>
+        </tr>
+        <tr>
+            <td>Matcha Milk Tea</td>
+            <td>
+                
+            </td>
+            <td>$6.00</td>
+        </tr>
+    </table>
+    <h2>
+    <table>
+        <tr>
+            <th>Fruit Tea</th>
+        </tr>
+    </table>
+    </h2>
+    
+    <img src="Boba.file" alt="Menu" style="width:100px;height:100px;">
+</body>
+</html>
